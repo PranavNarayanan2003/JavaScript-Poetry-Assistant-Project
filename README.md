@@ -1,4 +1,5 @@
 Poetry Assistant: Algorithmic Text Generation
+
 A web application that utilizes dictionary-based searching and string manipulation to generate rhyming and alliterative poetry. This project was developed to demonstrate efficiency in data handling, input validation, and algorithm design within JavaScript.
 
 - Technical Overview
